@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "start": "deno run -A main.ts"
+  },
+  "importMap": "./import_map.json",
+  "unstable": ["kv"],
+  "fmt": {
+    "indentWidth": 2,
+    "semiColons": false,
+    "singleQuote": true
+  }
+}

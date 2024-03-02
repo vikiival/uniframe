@@ -1,0 +1,15 @@
+{
+  "imports": {
+    "@/": "./",
+    "dotenv": "https://deno.land/std@0.215.0/dotenv",
+    "dotenv/": "https://deno.land/std@0.215.0/dotenv/",
+    "polkadot": "https://deno.land/x/polkadot@0.2.43",
+    "polkadot/": "https://deno.land/x/polkadot@0.2.43/",
+    "hono": "https://deno.land/x/hono@v4.0.5",
+    "hono/": "https://deno.land/x/hono@v4.0.5/",
+    "valibot": "https://deno.land/x/valibot@v0.29.0",
+    "valibot/": "https://deno.land/x/valibot@v0.29.0/",
+    "ufo": "https://unpkg.com/ufo@1.4.0/dist",
+    "ufo/": "https://unpkg.com/ufo@1.4.0/dist/"
+  }
+}
